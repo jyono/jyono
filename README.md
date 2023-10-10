@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jyono
-- 👀 I’m interested in backend, distributed systems, and all things :D
+- 👀 I’m interested in distributed systems, ML, and all things compooter science :D
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
